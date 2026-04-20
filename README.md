@@ -3,6 +3,17 @@
 An open-source library of foundational digital IPs designed, simulated, and physically synthesized for the Xilinx Artix-7 FPGA architecture. This repository serves as my personal proving ground for RTL design and timing closure.
 
 
+- Target Board: Digilent Basys 3 (Artix-7 FPGA: XC7A35TCPG236-1)
+
+- Synthesis & Implementation Tool: Xilinx Vivado(v2024.2)
+
+- Simulation & Verification: Xilinx Vivado(v2024.2), Icarus Verilog & GTKWave
+
+- Language: Verilog HDL
+
+
+
+
 
 # Checklist
 |   Sr.No  | Module name             | Status     | Notes                       |
