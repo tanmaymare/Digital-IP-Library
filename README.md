@@ -1,11 +1,11 @@
-# verilog_codes
+# Verilog Codes
 
 Here are some verilog codes that i had written and simulated using Icarus Verilog in "codes" folder. 
 The ones in the "Vivado simulations" are done on vivado and also has been implemented on FPGA (Basys 3 trainer board)
 
 
 
-# Checklsit
+# Checklist
 |   Sr.No  | Module name             | Status     | Notes                       |
 |-----------------------|---------------------------------|------------|-----------------------------|
 |  | example   | ✅ Done, ⏳ In Progress, 📋 Planned     | ......... |
@@ -21,6 +21,6 @@ After shifting to Vivado with basys 3 implementation
 | 6 | Flip flops : J -K , S -R , D , T | ⏳ In Progress | Have completed the D FF simulation but facing issues in implementation | 
 | 7 | Synchronous Counter |  ✅ Done  | Build a top module : synchronous counter, a clock divider  and then a binary to 7 seg module, generated bit file and implemented on basys 3 ( video available) | 
 | 8 |  4 bit ALU |  ⏳ In Progress | |
-| 9 | FSM |  📋 Planned   | | 
+| 9 | FSM |  ⏳ In Progress  | | 
 | 10 | carry look ahead adder | 📋 Planned   | | 
 | 11 |  4 bit binary ripple adder | 📋 Planned   | | 
